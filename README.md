@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jontykamble
 - 👀 I’m interested in Web develeopment
-- 🌱 I’m currently learning JavaScript
-- 💞️ ask me about html ,css,c++,c,linux...
+- 🌱 I’m currently learning Django
+- 💞️ ask me about python,mysql,flask,django,c++
 - 📫 How to reach me jontykambleofficial@gmail.com
 
 <!---
