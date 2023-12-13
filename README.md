@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @Jontykamble
+
+Hi 👋, I'm Jonty Kamble
+Web Developer and Machine Learning Enthusiast
+🌱 I’m currently learning React.js, Machine Learning.
+
+
+
+👨‍💻 All of my projects are available at https://github.com/Jontykamble
 - 👀 I’m interested in Web develeopment
 - 🌱 I’m currently learning React Native
 - 💞️ ask me about Html, css, JavaScript, Reactjs
